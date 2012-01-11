@@ -1,0 +1,1 @@
+SaneCop is a settings file for [StyleCop](http://stylecop.codeplex.com/) that disables some default rules to allow you to write concise (but readable) code.
